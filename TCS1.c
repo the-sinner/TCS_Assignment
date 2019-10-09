@@ -16,3 +16,10 @@ int main()
   }
   return 0;
 }
+
+/* Output
+10
+Area of Square : 100.00
+3
+Area of Circle : 28.26
+*/
